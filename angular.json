@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "TakePhoto"
+  "defaultProject": "TakePhoto",
+  "cli": {
+    "analytics": "6c5bef8a-561d-426b-a228-b773f7fc7d4e"
+  }
 }
